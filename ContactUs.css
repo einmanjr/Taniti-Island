@@ -1,0 +1,48 @@
+﻿#Mainheader {
+    padding: 2%;
+}
+
+#logo {
+    height: 60%;
+    width: 60%;
+}
+
+
+#backsplash {
+    height: 60%;
+    width: 90%;
+    float: left;
+    padding: 5%;
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 20px 20px;
+        padding-left: 3%;
+        padding-right: 4%;
+        text-decoration: none;
+    }
+
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+#mork{
+    padding-top: 15%;
+}
+

@@ -1,0 +1,65 @@
+﻿#logo {
+    height: 60%;
+    width: 60%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 20px 20px;
+        padding-left: 3%;
+        padding-right: 4%;
+        text-decoration: none;
+    }
+
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+#food {
+    padding-top: 12%;
+    border-radius: 40%;
+    height: 30%;
+    width: 30%;
+    padding-left: 5%;
+  
+}
+
+#poke{
+    border-radius: 40%;
+    height: 30%;
+    width: 30%;
+    padding-left: 5%;
+}
+
+#pizza {
+    border-radius: 40%;
+    height: 30%;
+    width: 30%;
+    padding-left: 5%;
+}
+
+#div1{
+    float: right;
+    padding-top: 12%;
+}
+.div2{
+    float: right;
+}
+  p{
+    padding-right: 40%;
+    height: 30%;
+    width: 30%;
+  }
+

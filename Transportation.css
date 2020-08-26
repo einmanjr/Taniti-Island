@@ -1,0 +1,55 @@
+﻿#logo {
+    height: 60%;
+    width: 60%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 20px 20px;
+        padding-left: 3%;
+        padding-right: 4%;
+        text-decoration: none;
+    }
+
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+#airplane {
+    border-radius: 20px;
+    height: 70%;
+    width: 70%;
+}
+
+#bus {
+    border-radius: 20px;
+    height: 77%;
+    width: 77%;
+}
+
+.row {
+    padding-top: 12%;
+}
+
+.column {
+    float: left;
+    width: 45%;
+    padding-left: 2.5%;
+
+}
+h3{
+    padding-top: 10%;
+}

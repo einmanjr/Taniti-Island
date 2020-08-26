@@ -1,0 +1,78 @@
+﻿#logo {
+    height: 60%;
+    width: 60%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 20px 20px;
+        padding-left: 3%;
+        padding-right: 4%;
+        text-decoration: none;
+    }
+
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+#kidthing {
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+}
+
+#nightlife {
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+}
+
+#snorkeling {
+    border-radius: 20px;
+    height: 220px;
+    width: 80%;
+}
+#m2{
+    float: right;
+}
+    
+
+.row{
+    padding-top: 12%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    
+    
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p{
+    width: 80%;
+    padding: 5%;
+}
+
+h3{
+    padding-left: 25%;
+}

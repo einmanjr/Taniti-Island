@@ -1,0 +1,76 @@
+﻿body
+{
+}
+#logo {
+    height: 60%;
+    width: 60%;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+    
+}
+    .navbar a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 20px 20px;
+        padding-left: 3%;
+        padding-right: 4%;
+        text-decoration: none;
+    }
+
+         .navbar a:hover {
+            background: #ddd;
+            color: black;
+         }
+
+#volcano {
+    padding-top: 12%;
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+    padding-left: 10px;
+
+}
+
+
+#bridge {
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+    padding-left: 10px;
+  
+}
+#heads {
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+    padding-left: 10px;
+    
+}
+
+#p1{
+    padding-top: 12%;
+}
+p{
+    height: 50%;
+    width: 100%;
+    padding-top: 30%;
+
+}
+
+.row {
+    padding-top: 10%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
